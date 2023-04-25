@@ -1,0 +1,19 @@
+[ {
+  "cpf" : "08226630746",
+  "nome" : "Luiza",
+  "email" : "luiza@gmail.com",
+  "id" : 2,
+  "planoSaude" : {
+    "nomePlano" : "A"
+  },
+  "ativo" : true
+}, {
+  "cpf" : "47440440854",
+  "nome" : "Vanessa",
+  "email" : "vanessa@gmail.com",
+  "id" : 1,
+  "planoSaude" : {
+    "nomePlano" : "Privado"
+  },
+  "ativo" : true
+} ]

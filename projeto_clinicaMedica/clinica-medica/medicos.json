@@ -1,0 +1,19 @@
+[ {
+  "nome" : "Glauber",
+  "cpf" : "47440440854",
+  "email" : "Glauber@gmail.com",
+  "ativo" : true,
+  "especialidades" : [ {
+    "nomeEspecialidade" : "Cirurgião"
+  } ],
+  "id" : 1
+}, {
+  "nome" : "Flavio",
+  "cpf" : "08226630746",
+  "email" : "flavio@gmail.com",
+  "ativo" : true,
+  "especialidades" : [ {
+    "nomeEspecialidade" : "Ortopedista"
+  } ],
+  "id" : 2
+} ]

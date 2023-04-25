@@ -1,0 +1,57 @@
+[ {
+  "paciente" : {
+    "cpf" : "08226630746",
+    "nome" : "Luiza",
+    "email" : "luiza@gmail.com",
+    "id" : 2,
+    "planoSaude" : {
+      "nomePlano" : "A"
+    },
+    "ativo" : true
+  },
+  "medico" : {
+    "nome" : "Flavio",
+    "cpf" : "08226630746",
+    "email" : "flavio@gmail.com",
+    "ativo" : true,
+    "especialidades" : [ {
+      "nomeEspecialidade" : "Ortopedista"
+    } ],
+    "id" : 2
+  },
+  "especialidade" : {
+    "nomeEspecialidade" : "Ortopedista"
+  },
+  "data" : "23/04/2005",
+  "hora" : "00:00",
+  "concluida" : false,
+  "idConsulta" : 1
+}, {
+  "paciente" : {
+    "cpf" : "08226630746",
+    "nome" : "Luiza",
+    "email" : "luiza@gmail.com",
+    "id" : 2,
+    "planoSaude" : {
+      "nomePlano" : "A"
+    },
+    "ativo" : true
+  },
+  "medico" : {
+    "nome" : "Glauber",
+    "cpf" : "47440440854",
+    "email" : "Glauber@gmail.com",
+    "ativo" : true,
+    "especialidades" : [ {
+      "nomeEspecialidade" : "Cirurgião"
+    } ],
+    "id" : 1
+  },
+  "especialidade" : {
+    "nomeEspecialidade" : "Cirurgião"
+  },
+  "data" : "2",
+  "hora" : "1",
+  "concluida" : false,
+  "idConsulta" : 1
+} ]
